@@ -17,7 +17,7 @@ git status - show change files
 
 git add name-files - add change files to commit
 
-git add . - add change all files to commit
+git add . - add all change files to commit
 
 git commit -m "name commit" - create commitn
 
