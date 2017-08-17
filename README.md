@@ -11,7 +11,7 @@ git pull - download a new change files
 
 git checkout -b branch-name  - creat new branch
 
-git status - showh change files
+git status - show change files
 
 git add - add change files to commit
 
