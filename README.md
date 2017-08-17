@@ -7,6 +7,8 @@ git clone https://github.com/konstantindidenko/firstProject.git
 
 2. Work to cmd
 ```bash
+cd /firstProject
+
 git pull - download a new change files
 
 git checkout -b branch-name  - creat new branch
