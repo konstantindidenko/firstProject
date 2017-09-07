@@ -1,0 +1,32 @@
+.menu {
+	list-style-type: none;
+	display: inline-block;
+	height: 100px;
+}
+
+li {
+	display: inline-block;
+	border-left: 1px solid black;
+	padding: 40px;
+}
+li:last-child {
+	border-right:1px solid black;
+}
+a {
+    color: #fff;
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: 600px;
+	text-transform: uppercase;
+}
+
+a:hover {
+	color: #ab987a;
+}
+.content {
+	text-align: center;
+	background: #032f3e;
+}
+
+
+
