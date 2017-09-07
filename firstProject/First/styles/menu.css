@@ -2,6 +2,9 @@
 	list-style-type: none;
 	display: inline-block;
 	height: 100px;
+	width: 100%;
+	text-align: center;
+	background: #032f3e;
 }
 
 li {
@@ -16,17 +19,10 @@ a {
     color: #fff;
 	text-decoration: none;
 	font-size: 18px;
-	font-weight: 600px;
+	font-weight: 600;
 	text-transform: uppercase;
 }
 
 a:hover {
 	color: #ab987a;
 }
-.content {
-	text-align: center;
-	background: #032f3e;
-}
-
-
-
