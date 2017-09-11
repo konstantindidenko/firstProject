@@ -1,0 +1,25 @@
+body {
+    background-image: url(../images/cat.jpg);
+    background-size: cover;
+	background-color: #333333;
+	background-repeat: no-repeat;
+}
+.cat-list {
+	text-align: center;
+	font-size: 0;
+}
+li {
+	background-color: green;
+    display: inline-block;
+    width:200px;
+    height:50px;
+    text-align: center;
+    margin: 20px;
+    border: 1px solid white;
+    padding-top:25px;
+    font-weight: bold;
+    font-size: 18px;
+}
+li:first-child {
+	margin-left: 0;
+}
